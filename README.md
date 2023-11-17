@@ -7,6 +7,8 @@ Se trata de uma API com as principais operações CRUD (Create, Read, Update e D
 - Java 17
 - SpringBoot 3.1.5
 
+### Banco de Dados
+- PostgreSQL
 
 ### Dependências utilizadas: 
 
